@@ -1,3 +1,9 @@
+/*
+The code I wrote is under the CC BY-NC 4.0 licence.
+The code of all libraries is under its own licence.
+*/
+
+
 #include <OneButton.h>
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_NeoPixel.h>
